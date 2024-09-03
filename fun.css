@@ -1,0 +1,20 @@
+h1 {
+  font-size: large;
+}
+
+h4 {
+  font-size: small ;
+}
+
+.view {
+  cursor: pointer;
+}
+
+.view:active {
+  color: red;
+}
+
+img {
+  border-image-width: 20px;
+  
+}
